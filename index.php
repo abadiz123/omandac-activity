@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<img src = "Capture.PNG" >
+<img src = "activity.bmp" >
 </body>
 </html>
