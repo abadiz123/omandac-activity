@@ -174,7 +174,7 @@ function scrollFunction() {
     }
   }else {
     centerLogo.innerHTML = "eSPORT ACADEMY";
-    centerLogo.style.left = "calc((100% - 1002.89px)/2)";
+    centerLogo.style.left = "calc((100% - 705.94px)/2)";
     centerLogo.style.top = "250px";
     centerContent.style.opacity = "0";
   }
