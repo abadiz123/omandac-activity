@@ -173,8 +173,8 @@ function scrollFunction() {
         gameContent3.style.opacity = "0";
     }
   }else {
-    centerLogo.style.width = "680.04px";
-    centerLogo.style.left = "calc((100% - 680.04px)/2)";
+    centerLogo.style.width = "650.04px";
+    centerLogo.style.left = "calc((100% - 650.04px)/2)";
     centerLogo.style.top = "250px";
     centerContent.style.opacity = "0";
   }
