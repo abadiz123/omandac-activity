@@ -147,7 +147,7 @@ var gameContent3 = document.getElementById("gameimg3");
 
 function scrollFunction() {
   if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
-    centerLogo.style.width = "294px";
+    centerLogo.innerHTML = "eSPORT<br/> ACADEMY";
     centerLogo.style.left = "100px";
     centerLogo.style.top = "300px";
     centerContent.style.opacity = "1";
@@ -173,7 +173,7 @@ function scrollFunction() {
         gameContent3.style.opacity = "0";
     }
   }else {
-    centerLogo.style.width = "638.04px";
+    centerLogo.innerHTML = "eSPORT ACADEMY";
     centerLogo.style.left = "calc((100% - 638.04px)/2)";
     centerLogo.style.top = "250px";
     centerContent.style.opacity = "0";
